@@ -1,4 +1,4 @@
-![image-20210505193644773](C:\Users\Marcos\AppData\Roaming\Typora\typora-user-images\image-20210505193644773.png)
+<img src="./img/docflix2.jpg" alt="Interface"/>
 
 
 
